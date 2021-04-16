@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "105667876514",
+    "firebase_url": "https://apptest1-bd61b.firebaseio.com",
+    "project_id": "apptest1-bd61b",
+    "storage_bucket": "apptest1-bd61b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105667876514:android:273c3092aee5db48dea9fb",
+        "android_client_info": {
+          "package_name": "com.example.gglogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105667876514-diaqb5biscjuuf9bg75193lsm72h46q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4VUuL5Nrhf5-Z__4IvVeaXFSSbLigL9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105667876514-diaqb5biscjuuf9bg75193lsm72h46q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105667876514:android:0c94ddd97f227ba9dea9fb",
+        "android_client_info": {
+          "package_name": "com.example.messapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105667876514-diaqb5biscjuuf9bg75193lsm72h46q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4VUuL5Nrhf5-Z__4IvVeaXFSSbLigL9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105667876514-diaqb5biscjuuf9bg75193lsm72h46q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
