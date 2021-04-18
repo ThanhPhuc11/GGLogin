@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val gso = GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
             .requestScopes(Scope(Scopes.DRIVE_APPFOLDER))
-            .requestServerAuthCode("105667876514-diaqb5biscjuuf9bg75193lsm72h46q5.apps.googleusercontent.com")
+            .requestServerAuthCode("169899059867-ubpghu6aghrleiqimdj0q5c8qlkedb0t.apps.googleusercontent.com")
             .requestEmail()
             .build()
         mGoogleSignInClient = GoogleSignIn.getClient(this, gso)
@@ -67,11 +67,11 @@ class MainActivity : AppCompatActivity() {
                 .add("grant_type", "authorization_code")
                 .add(
                     "client_id",
-                    "105667876514-diaqb5biscjuuf9bg75193lsm72h46q5.apps.googleusercontent.com"
+                    "169899059867-ubpghu6aghrleiqimdj0q5c8qlkedb0t.apps.googleusercontent.com"
                 )
                 .add(
                     "client_secret",
-                    "hWIjGpxsp67fMQ4mgLy5kNO5"
+                    "us-84sIM92ePd-K1NcQusbP8"
                 )//when register in https://developers.google.com/identity/sign-in/android/start-integrating
                 .add("redirect_uri", "")
                 .add("code", "$authCode")
